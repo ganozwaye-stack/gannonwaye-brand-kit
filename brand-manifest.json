@@ -1,0 +1,38 @@
+{
+  "brand": "Gannon Waye",
+  "tagline": "This is choosing yourself.",
+  "description": "Melbourne-based singer-songwriter exploring self-worth, grief, and courage.",
+  "colors": {
+    "primary": "#F5D06E",
+    "accent": "#C9A84C",
+    "background": "#0F1116",
+    "foreground": "#EBE4D4"
+  },
+  "fonts": {
+    "display": "Playfair Display",
+    "body": "Inter"
+  },
+  "voice": {
+    "tone": "warm, authentic, vulnerable, hopeful",
+    "themes": [
+      "self-worth",
+      "boundaries",
+      "grief",
+      "courage",
+      "choosing yourself"
+    ],
+    "signature_phrases": [
+      "This is choosing yourself.",
+      "More than music.",
+      "I made it through."
+    ]
+  },
+  "social": {
+    "spotify": "https://open.spotify.com/artist/1tu7INPvRAcRihgaEvBVAz",
+    "instagram": "https://instagram.com/gannonwaye",
+    "tiktok": "https://tiktok.com/@gannonwaye"
+  },
+  "contact": "gannonwayemusic@gmail.com",
+  "version": "1.0.0",
+  "updated": "2026-07-15T23:18:48.803Z"
+}
